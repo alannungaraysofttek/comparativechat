@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "0.1.0",
+  "description": "api rest server for comparative apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "alan nungaray",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
